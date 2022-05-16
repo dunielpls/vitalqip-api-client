@@ -1,5 +1,5 @@
 # VitalQIP API Client
-A Python 3.x client for the Nokia™ VitalQIP© JSON REST API.
+A Python 3.x client for the Nokia™ VitalQIP® JSON REST API.
 
 # Can I use it?
 I have no idea which versions of VitalQIP actually support this specific API, but you should be able to access it if you are able to access the `/rest-api` URL at your instance. I can however confirm that it is supported by VitalQIP version 8.1.1.
